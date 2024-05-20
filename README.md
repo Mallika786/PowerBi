@@ -31,19 +31,6 @@ The sales forecast section uses historical data from the past four years to pred
 
 ## Getting Started
 
-### Prerequisites
-
-- Power BI Desktop
-- Basic understanding of data analysis and visualization
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/power-bi-practice.git
-   ```
-2. Open the `.pbix` files in Power BI Desktop.
-
 ---
 
 Feel free to explore the modules and the SuperStore report to enhance your Power BI skills. Happy analyzing!
